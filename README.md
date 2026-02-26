@@ -10,9 +10,9 @@
 ## 🎓 About Me
 
 - 🎓 B.Tech CSE (Data Science) @ NIIT University (CGPA: **9.09**)
-- 🤖 Passionate about AI systems, Deep Learning & Generative AI
-- ☁️ Building production-ready ML pipelines with AWS & CI/CD
-- 🧠 Interested in autonomous intelligent systems & applied AI
+- 🤖 Passionate about AI Systems, Deep Learning & Generative AI
+- ☁️ Building production-grade ML pipelines with AWS & CI/CD
+- 🧠 Interested in Autonomous Intelligent Systems & Applied AI
 - 🏐 State-Level Volleyball Player
 - 📈 93 Percentile – JEE Mains
 
@@ -31,44 +31,20 @@
 </p>
 
 ### 🤖 Machine Learning & Deep Learning
-- Scikit-learn  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- ANN / CNN  
-- NLP  
-- Random Forest  
-- YOLOv8  
+Scikit-learn • Pandas • NumPy • Matplotlib • ANN • CNN • NLP • Random Forest • YOLOv8
 
 ### 🧠 Generative & Agentic AI
-- LangChain  
-- LangGraph  
-- RAG (Retrieval-Augmented Generation)  
-- LangSmith  
-- Groq LLMs  
-- Llama 3  
-- ChromaDB  
+LangChain • LangGraph • RAG • LangSmith • Groq LLMs • Llama 3 • ChromaDB
 
 ### ⚙️ MLOps & DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,jenkins" />
 </p>
 
-- MLflow  
-- DVC  
-- CI/CD Automation  
-- Model Versioning  
+MLflow • DVC • CI/CD Automation • Model Versioning
 
 ### ☁️ Cloud & Big Data
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" />
-</p>
-
-- AWS EC2  
-- S3  
-- ECR  
-- Hadoop  
-- HDFS  
+AWS (EC2, S3, ECR) • Hadoop • HDFS
 
 ### 🌐 Web & Tools
 <p align="center">
@@ -79,27 +55,27 @@
 
 # 🔬 Featured Projects
 
-## 🏨 Intelligent Hotel Retention Agent
+## 🏨 Intelligent Hotel Retention Agent  
 **Random Forest | LangGraph | Llama 3 | RAG | AWS | Docker | Jenkins**
 
 - Architected modular ML + RAG + agent pipelines for churn prediction
-- Designed autonomous decision-making workflow with approval gating
+- Designed autonomous decision workflow with approval gating
 - Implemented risk scoring & automated email execution
-- Productionized using Docker CI/CD with Jenkins & AWS (EC2, ECR, S3)
+- Productionized using Docker CI/CD with Jenkins & AWS
 
 ---
 
-## 💼 GenAI Job Recommender
+## 💼 GenAI Job Recommender  
 **Groq API | NLP | Streamlit | AWS**
 
 - Built LLM-based resume analyzer
-- Extracted skills & generated learning roadmaps
+- Extracted skills & generated personalized learning roadmaps
 - Designed real-time job matching system
-- Deployed containerized system on AWS EC2
+- Deployed containerized solution on AWS EC2
 
 ---
 
-## 🚨 Disaster Victim Detection System
+## 🚨 Disaster Victim Detection System  
 **YOLOv8 | OpenCV | Flask | DVC | AWS**
 
 - Trained custom YOLOv8 model for drone/CCTV disaster footage
@@ -108,20 +84,20 @@
 
 ---
 
-## 🏥 Kidney Disease Classification
+## 🏥 Kidney Disease Classification  
 **CNN | MLflow | DVC | Docker | AWS**
 
-- Developed modular medical image classification pipeline
+- Built modular medical image classification pipeline
 - Integrated MLflow experiment tracking
-- Automated deployment with Docker & GitHub Actions
+- Automated deployment using Docker & GitHub Actions
 
 ---
 
 ## 👨‍🏫 Experience
 
 ### Learning Assistant – NIIT University Library
-- Mentored students in programming & ML
-- Organized events increasing library footfall by 40%
+- Mentored students in Programming & Machine Learning
+- Organized events increasing library engagement by 40%
 - Assisted faculty coordination & academic operations
 
 ---
@@ -134,7 +110,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-saini69&theme=tokyonight" />
 </p>
 
 ---
@@ -143,5 +119,5 @@
 
 - 📍 Rajasthan, India  
 - 📧 prakashmali6556@gmail.com  
-- 🔗 LinkedIn  
-- 🐙 GitHub
+- 🔗 LinkedIn: (Add your link)
+- 🐙 GitHub: https://github.com/prakash-saini69
