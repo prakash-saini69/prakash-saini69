@@ -13,8 +13,7 @@
 - 🤖 Passionate about AI Systems, Deep Learning & Generative AI
 - ☁️ Building production-grade ML pipelines with AWS & CI/CD
 - 🧠 Interested in Autonomous Intelligent Systems & Applied AI
-- 🏐 State-Level Volleyball Player
-- 📈 93 Percentile – JEE Mains
+
 
 ---
 
